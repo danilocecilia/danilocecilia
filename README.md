@@ -9,6 +9,8 @@ Experienced Frontend Developer with 6 years of expertise in Next.js, GraphQL, St
 * 🌍  I'm based in Windsor, ON
 * ✉️  You can contact me at [danilo.cecilia@gmail.com](mailto:danilo.cecilia@gmail.com)
 
+<a href="https://app.daily.dev/danilo1984"><img src="https://api.daily.dev/devcards/v2/Xdq56neqtNsfcKlJBo3jy.png?type=default&r=hpe" width="356" alt="Danilo Cecilia's Dev Card"/></a>
+
 ### Skills
 
 <p align="left">
