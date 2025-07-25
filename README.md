@@ -4,7 +4,7 @@ Hi 👋 My name is Danilo Cecilia
 Senior Frontend Developer
 -------------------------
 
-Experienced Frontend Developer with 6 years of expertise in Next.js, GraphQL, Styled Components, and CSS Modules. Passionate about learning and adopting new technologies to build efficient, modern web applications.
+Experienced Frontend Developer with over 6 years of expertise in Next.js, GraphQL, Styled Components, and CSS Modules. Passionate about learning and adopting new technologies to build efficient, modern web applications.
 
 * 🌍  I'm based in Windsor, ON
 * ✉️  You can contact me at [danilo.cecilia@gmail.com](mailto:danilo.cecilia@gmail.com)
